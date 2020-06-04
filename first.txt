@@ -4,3 +4,4 @@
 ・git status
 ・git rm
 ・git status
+・git diff
